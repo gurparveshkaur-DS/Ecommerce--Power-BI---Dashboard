@@ -16,7 +16,6 @@ What kind of payment mode customer uses the most while purchasing products?
 Which months of the year Store generate the maximum profit and minimum profit?
 Which sub-category of the product customer orders the most and contibutes gaining maximum profits to Store?
 
-<img width="1203" height="674" alt="Ecommerce-PowerBI Dashboard" src="https://github.com/user-attachments/assets/7452e6a4-83d7-4d2e-84ca-dcfe939a0a33" />
 
 **Process**
 Created an interactive dashboard to track and analyze online sales data.
